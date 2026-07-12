@@ -4,11 +4,18 @@ Site em formato de artigo/blog contando a história do **Bugdroid**, o mascote d
 
 🔗 **Demo:** [erickkadr.github.io/SiteAndroid](https://erickkadr.github.io/SiteAndroid/)
 
-## Print
+## Prints
 
-<div align="center">
-  <img src="docs/screenshot.png" alt="Artigo sobre a história do mascote do Android" width="700" />
-</div>
+| Abertura do artigo | Os primeiros "Dandroids" |
+|---|---|
+| ![Abertura do artigo sobre a história do mascote](docs/01-intro.png) | ![Primeira versão do mascote — os Dandroids](docs/02-primeira-versao.png) |
+
+<details>
+<summary>Ver mais um print (o Bugdroid atual)</summary>
+
+![O Bugdroid, versão atual do mascote, e vídeo sobre sua evolução](docs/03-novo-mascote.png)
+
+</details>
 
 ## Sobre o projeto
 
