@@ -4,18 +4,6 @@ Site em formato de artigo/blog contando a história do **Bugdroid**, o mascote d
 
 🔗 **Demo:** [erickkadr.github.io/SiteAndroid](https://erickkadr.github.io/SiteAndroid/)
 
-<div align="center">
-  <img width="100%" alt="gif do projeto" src="https://user-images.githubusercontent.com/99443921/188326974-15971dbb-7c2c-4beb-b6da-8b5055243161.gif"/>
-</div>
-
-<div align="center">
-<br>
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
 ## Print
 
 <div align="center">
