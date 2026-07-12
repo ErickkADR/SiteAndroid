@@ -1,21 +1,55 @@
-# SITE DO ANDROID
+# Curiosidades de Tecnologia — A História do Mascote do Android
 
-ESSE É UM EXERCÍCIO DE TREINO PARA APRIMORAR AS MINHAS HABILIDADES COM HTML E CSS
+Site em formato de artigo/blog contando a história do **Bugdroid**, o mascote do Android — do primeiro rascunho de 2007 até a versão criada pela ilustradora Irina Blok. Feito em **HTML e CSS**, com layout responsivo via media queries.
 
-# STATUS DO PROJETO
+🔗 **Demo:** [erickkadr.github.io/SiteAndroid](https://erickkadr.github.io/SiteAndroid/)
 
-FINALIZADO
+<div align="center">
+  <img width="100%" alt="gif do projeto" src="https://user-images.githubusercontent.com/99443921/188326974-15971dbb-7c2c-4beb-b6da-8b5055243161.gif"/>
+</div>
 
-# VÍDEO DO PROJETO
+<div align="center">
+<br>
 
-ESSE É UM VÍDEO DO PROJETO FINALIZADO
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![gif stro](https://user-images.githubusercontent.com/99443921/188326974-15971dbb-7c2c-4beb-b6da-8b5055243161.gif)
+</div>
 
-# LINGUAGENS UTILIZADAS
+## Print
 
-<img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> NO HTML EU FIZ A ESCRITA DO CONTEÚDO, FIZ LISTAS E ADICIONEI VÍDEOS E FOTOS.
-  
-<img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> COM O CSS FIZ A APARÊNCIA DO SITE MELHORAR E TAMBÉM ARRUMEI O CONTEÚDO EM DIVERSOS TAMANHOS DE TELA COM MEDIA QUERIES.
+<div align="center">
+  <img src="docs/screenshot.png" alt="Artigo sobre a história do mascote do Android" width="700" />
+</div>
 
-### Made with ♥ by Erick Alexandre Dantas Ribeiro |  [Contact](https://www.linkedin.com/in/erick-a-d-r-4033a5247/)
+## Sobre o projeto
+
+Uma página de conteúdo (artigo) sobre a origem do robozinho verde do Android — desde a primeira tentativa não-oficial de um desenvolvedor do Google em 2007 (os "Dandroids"), até a criação da versão que conhecemos hoje.
+
+## Motivação
+
+Exercício de treino para praticar **HTML semântico para conteúdo de texto longo** (títulos, parágrafos, listas, imagens, vídeo incorporado) e **CSS responsivo com media queries**, adaptando o layout de artigo para diferentes tamanhos de tela.
+
+## Funcionalidades
+
+- Layout de artigo com cabeçalho, navegação e conteúdo estruturado
+- Imagens ilustrando cada fase da evolução do mascote
+- Vídeo incorporado sobre o tema
+- Totalmente responsivo (media queries para desktop, tablet e mobile)
+
+## Tecnologias
+
+- **HTML5** (conteúdo, listas, mídia incorporada)
+- **CSS3** (media queries para responsividade)
+
+## Como rodar localmente
+
+Sem build, sem dependência — abra `index.html` no navegador ou sirva a pasta:
+
+```bash
+npx serve .
+```
+
+---
+
+### Made with ♥ by Erick Alexandre Dantas Ribeiro | [Contato](https://www.linkedin.com/in/erick-a-d-r-4033a5247/)
